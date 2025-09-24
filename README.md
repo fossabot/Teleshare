@@ -163,6 +163,7 @@ python -m bot.main
 <summary>Heroku Deployment</summary>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zawsq/Teleshare/tree/heroku-deploy)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fseong8899%2FTeleshare.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fseong8899%2FTeleshare?ref=badge_shield)
 
 If this repo cannot be deployed in Heroku, please fork it and deploy it manually using the [heroku-deploy](https://github.com/zawsq/Teleshare/tree/heroku-deploy) branch.
 </details>
@@ -184,3 +185,7 @@ To deploy on render, fork the main repo and deploy using `Dockerfile`
 
 Setup your Render environment variable refer to [.env_example](.env_example) for reference or [configuration](#environment) for descriptions.
 </details>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fseong8899%2FTeleshare.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fseong8899%2FTeleshare?ref=badge_large)
